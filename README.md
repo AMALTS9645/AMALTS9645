@@ -1,8 +1,8 @@
 - 👋 Hi, I’m AMAL
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 MCA @SJCETPALAI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me amaltsthekkel@gmail.com
+- 📫 amaltsthekkel@gmail.com
 
 <!---
 AMALTS9645/AMALTS9645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
