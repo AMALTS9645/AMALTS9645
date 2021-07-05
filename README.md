@@ -1,7 +1,7 @@
-- 👋 Hi, I’m AMAL
-- 👀 I’m interested in ...
+- 👋 Hi, I’m AMAL T S
+- 👀 I’m interested in Fullstack Development
 - 🌱 MCA @SJCETPALAI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 amaltsthekkel@gmail.com
 
 <!---
