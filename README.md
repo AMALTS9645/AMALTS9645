@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 amaltsthekkel@gmail.com
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AMALTS9645)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 AMALTS9645/AMALTS9645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
