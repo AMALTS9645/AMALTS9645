@@ -1,7 +1,4 @@
 - 👋 Hi, I’m AMAL T S
-- 👀 I’m interested in Fullstack Development
-- 🌱 MCA @SJCETPALAI
-- 💞️ I’m looking to collaborate on projects
 - 📫 amaltsthekkel@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AMALTS9645)](https://github.com/ryo-ma/github-profile-trophy)
